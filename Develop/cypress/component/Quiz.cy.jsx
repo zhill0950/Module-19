@@ -2,7 +2,6 @@ import React from 'react';
 import { mount } from '@cypress/react';
 import Quiz from '../../client/src/components/Quiz';
 
-// Mock the `getQuestions` function to return sample data
 const mockQuestions = [
   {
     question: 'What is the capital of France?',

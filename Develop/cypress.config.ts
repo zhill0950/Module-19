@@ -6,13 +6,13 @@ export default defineConfig({
     setupNodeEvents(on, config) {
       // implement node event listeners if needed
     },
-    supportFile: "cypress/support/e2e.js",
+    supportFile: "cypress/support/e2e.ts",
   },
   component: {
     devServer: {
       framework: "react",
       bundler: "webpack",
     },
-    supportFile: "cypress/support/component.js",
+    supportFile: "cypress/support/component.ts",
   },
 });

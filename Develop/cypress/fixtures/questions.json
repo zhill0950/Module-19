@@ -1,0 +1,48 @@
+[
+    {
+      "question": "What is the capital of France?",
+      "answers": [
+        { "text": "Berlin", "isCorrect": false },
+        { "text": "Madrid", "isCorrect": false },
+        { "text": "Paris", "isCorrect": true },
+        { "text": "Rome", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Which programming language is used to style web pages?",
+      "answers": [
+        { "text": "HTML", "isCorrect": false },
+        { "text": "CSS", "isCorrect": true },
+        { "text": "JavaScript", "isCorrect": false },
+        { "text": "Python", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Who developed the theory of relativity?",
+      "answers": [
+        { "text": "Isaac Newton", "isCorrect": false },
+        { "text": "Albert Einstein", "isCorrect": true },
+        { "text": "Nikola Tesla", "isCorrect": false },
+        { "text": "Galileo Galilei", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Which of the following is not a JavaScript framework?",
+      "answers": [
+        { "text": "React", "isCorrect": false },
+        { "text": "Angular", "isCorrect": false },
+        { "text": "Django", "isCorrect": true },
+        { "text": "Vue", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What does HTML stand for?",
+      "answers": [
+        { "text": "Hyper Text Markup Language", "isCorrect": true },
+        { "text": "Home Tool Markup Language", "isCorrect": false },
+        { "text": "Hyperlinks and Text Markup Language", "isCorrect": false },
+        { "text": "Hyper Tool Markup Language", "isCorrect": false }
+      ]
+    }
+  ]
+  
