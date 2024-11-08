@@ -1,7 +1,31 @@
-# Module-19
+# Module-19 - Cypress: Tech Quiz Test Suite
 
 ## Description
 
-Your assignment this week underscores the importance of ensuring reliability and robustness in modern web applications through comprehensive testing. In today's dynamic development environment, testing is not just an afterthought but a critical part of the development process that ensures applications meet user demands and perform efficiently under various conditions.
+For this challenge, I was tasked with implementing testing for an exististing application. To do this I added Cypress for component and end-to-end tests. Doing so ensures reliability and robustness through testing.
 
-This week, you'll take the starter codebase of a fully functioning Tech Quiz application and enhance it by adding Cypress for both component and end-to-end tests. The app was built using the MERN stack with a React front end, MongoDB database, and Node.js/Express.js server and API. It allows users to take a quiz of ten random questions and view their final score.
+To accomplish this I completed the following tasks:
+
+1. Install Cypress as a dev dependency
+
+2. Configure Cypress for both component and end-to-end testing
+
+3. Create a component test for the quiz component
+
+4. Create an end-to-test for the quiz component
+
+## User Story
+
+```md
+AS AN aspiring developer
+I WANT to take a tech quiz
+SO THAT I can test my knowledge and improve my skills
+```
+
+## Application
+
+[Github Repository](https://github.com/zhill0950/Module-19) | [Walkthrough Video](http://youtube.com)
+
+## Contact
+
+[Github](https://github.com/zhill0950) | [E-mail](mailto:zhill0950@gmail.com) | [LinkedIn](http://www.linkedin.com)
